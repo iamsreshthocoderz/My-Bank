@@ -10,7 +10,7 @@ document.getElementById('btn-submit').addEventListener('click' , function(){
 
    // don not verify email passwordon the client side
 
-   if(email === 'sreshtho@baap.com' && password === 'sresthto'){
+   if(email === 'sreshtho@gmail.com' && password === 'sreshtho'){
     window.location.href = 'bank.html';
    }
    else{
